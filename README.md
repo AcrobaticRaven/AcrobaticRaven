@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Sengundar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-- 🔭 I’m currently working on **Tata Consultancy Services**
+<h3 align="center">Assistant System Engineer at Tata Consultancy Services and a passionate Java developer enthusiast</h3>
 
 - 🌱 I’m currently learning **Back end developer**
 
