@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Sengundar</h1>
-<h3 align="center">Assistant System Engineer at Tata Consultancy Services and a passionate Java developer enthusiast</h3>
+<h3 align="center">Assistant System Engineer at Tata Consultancy Services and a passionate Java developer enthusiast. Pursuing the path of achieving mastery in the java developer field and be a better developer through contant learnings.</h3>
 
 - 🌱 I’m currently learning **Back end developer**
 
